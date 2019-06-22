@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AtopStories</string>
+    <string name="story_title">Story Title</string>
+    <string name="story_abstract">Story Abstract</string>
+    <string name="story_read_more">Click to read more</string>
+    <string name="error_title">Network Error</string>
+    <string name="network_unavailable">Oops you are not connected to internet</string>
+    <string name="error_button_ok_text">OK</string>
+</resources>
